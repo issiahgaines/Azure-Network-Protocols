@@ -36,7 +36,7 @@ After selecting the resource groups option, you will need to give it a name. For
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7Jya9TY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now it's time to create your first Virtual Machine. Go back to the home page of your Azure portal. Type in virtual machines in the search bar or click the virtual machines tab. First, you're going to choose to store this VM in the resource group we just created. Then we need to give our virtual machine a name. To keep things as simple as possible, we will name this VM1. After we name the VM, we will choose the Windows 10 option. When choosing the size, you want it to be able to handle all of the work you're going to be doing in the Virtual Machine, so select 16gb option. Lastly, you're going to need to create a username and password in order to get into the VM using the RDP protocol. Everything else can be left untouched, so you can go ahead and hit review + create!
